@@ -1,0 +1,16 @@
+# Core dashboard, charts, and video playback
+streamlit>=1.35.0
+altair>=5.0.0
+pandas>=2.0.0
+imageio-ffmpeg>=0.5.1
+
+# Vehicle detection (Member 1) & tracking (Member 2)
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+
+# Traffic advisory (Member 5)
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=7.0.0

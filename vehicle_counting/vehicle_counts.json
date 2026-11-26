@@ -1,0 +1,60 @@
+[
+    {
+        "minute": 0,
+        "lanes": {
+            "lane_1": {
+                "cars": 19,
+                "buses": 0,
+                "trucks": 9,
+                "two_wheelers": 0
+            },
+            "lane_2": {
+                "cars": 9,
+                "buses": 0,
+                "trucks": 1,
+                "two_wheelers": 0
+            },
+            "lane_3": {
+                "cars": 17,
+                "buses": 0,
+                "trucks": 1,
+                "two_wheelers": 0
+            },
+            "lane_4": {
+                "cars": 12,
+                "buses": 0,
+                "trucks": 0,
+                "two_wheelers": 0
+            }
+        }
+    },
+    {
+        "minute": 1,
+        "lanes": {
+            "lane_1": {
+                "cars": 15,
+                "buses": 0,
+                "trucks": 1,
+                "two_wheelers": 0
+            },
+            "lane_2": {
+                "cars": 3,
+                "buses": 2,
+                "trucks": 1,
+                "two_wheelers": 0
+            },
+            "lane_3": {
+                "cars": 5,
+                "buses": 0,
+                "trucks": 0,
+                "two_wheelers": 0
+            },
+            "lane_4": {
+                "cars": 6,
+                "buses": 0,
+                "trucks": 0,
+                "two_wheelers": 0
+            }
+        }
+    }
+]

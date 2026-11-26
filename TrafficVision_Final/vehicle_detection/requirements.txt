@@ -1,0 +1,9 @@
+# Core (YOLO11 needs ultralytics >= 8.3)
+ultralytics>=8.3.0
+opencv-python>=4.8
+numpy>=1.23
+
+# Testing
+pytest>=7.0
+
+# Note: pandas is NOT required. CSV export uses Python's built-in csv module.
